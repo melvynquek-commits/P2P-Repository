@@ -1,0 +1,8 @@
+{
+  "name": "P2P Invoice Reminder System",
+  "description": "A Purchase-to-Pay (P2P) tracking and automated email reminder dashboard for SMEs to manage suppliers, track SGD invoice due dates, and generate timely payment remind notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
